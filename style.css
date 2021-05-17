@@ -1,0 +1,163 @@
+h1 {
+    font-family: 'Segoe UI';
+    text-align: left;
+    padding: 30px;
+    padding-bottom: 0px;
+    font-size: 65px;
+    color:white;
+    margin: 100px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-top: 40px;
+
+
+
+}
+
+h2 {
+    font-family: 'Segoe UI';
+    text-align: left;
+    padding-left: 30px;
+    padding-bottom: 25px;
+    font-size: 30px;
+    color:white;
+    /* margin: 100px; */
+    margin-left: 0px;
+    margin-bottom: 0px;
+    font-style: italic;
+
+
+}
+
+.resume {
+    font-family: 'Segoe UI';
+    text-align: left;
+    padding: 30px;
+    padding-bottom: 25px;
+    padding-top: 10px;
+    font-size: 40px;
+    color: white;
+    margin: 100px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+
+
+}
+
+/* .resume:hover {
+    color: black;
+} */
+
+/* .typewriter {
+    overflow: hidden;
+    border-right: .15em solid black;
+    white-space: nowrap; 
+    letter-spacing: .15em;
+    animation: 
+    typing 2.0s steps(25),
+    blink-caret 1.25s step-end infinite;
+    display: flex;
+} */
+
+.typewriter {
+    display:inline-flex
+}
+
+@keyframes typing {
+    from {width: 0}
+    to {width: 40%};
+}
+
+@keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: rgb(252, 1, 1); }
+  }
+
+.links {
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    text-decoration: none;
+}
+
+
+/* .links:hover {
+    text-decoration: underline;
+} */
+ul {
+    padding-inline-start: 35px;
+    margin-top: 20px;
+}
+.icon {
+    color: white;
+    margin-left: 30px;
+}
+
+/* .icon:hover {
+
+    text-shadow: 5px 5px 5px rgb(47, 52, 55);
+}
+.linkedin:hover {
+
+    text-shadow: 5px 5px 5px rgb(47, 52, 55);
+} */
+
+    
+
+
+.social {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+p {
+    font-family: 'Segoe UI';
+    margin: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 30px;
+    padding-top: 0px;
+    font-size: 25px;
+    color: white;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    /* font-weight: bold; */
+}
+
+li {
+    font-family: 'Segoe UI';
+    margin: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 30px;
+    padding-top: 0px;
+    font-size: 25px;
+    color: white;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+ul {list-style: none;}
+
+.listheaders {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+/* .calendly-inline-widget {
+    margin-bottom: 100px;
+} */
+
+html {background-color: black}
+

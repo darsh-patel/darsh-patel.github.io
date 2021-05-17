@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156034937-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-156034937-1');
+        </script>
+
+        <title>saneel's homepage</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <script src="https://kit.fontawesome.com/9431ee9534.js" crossorigin="anonymous"></script>
+        <meta charset="utf-8">
+    </head>
+
+    <body>
+        <div class= "wrapper">
+            <h1 class="typewriter"> 
+                Hi there, I'm&nbsp;   
+                 <span style="color:rgb(252, 1, 1)"> saneel</span> 
+            
+                </h1> 
+
+                <!-- <a href="Saneel_Resume.pdf" style="text-decoration:none" target="_blank"><h3 class="resume">resume</h3></a> -->
+
+            <div class="left">
+                <div class= "social">
+                    <ul>
+                        
+                        <a class="linkedin" href="SreeniSaneel2023.pdf" target="_blank"><i class="fas fa-file-alt fa-3x" style="color:rgb(252, 1, 1)"></i></a>
+                        <a class="icon" href="https://www.linkedin.com/in/saneel-sreeni/ " target="_blank"><i class="fab fa-linkedin fa-3x " style="color: rgb(252, 1, 1);"></i></a>
+                        <a class="icon" href="https://twitter.com/sanlsrni" target="_blank"><i class="fab fa-twitter-square fa-3x" style="color:rgb(252, 1, 1)"></i></a>
+                        <a class="icon" href="https://github.com/ssreeni1" target="_blank"><i class="fab fa-github-square fa-3x" style="color:rgb(252, 1, 1)"></i></a>
+
+                        
+
+                    </ul>
+                </div>
+            </div>
+
+            <div class="right">
+            
+                    <p> i'm currently an undergraduate in uc berkeley's <a class="links" href="https://met.berkeley.edu/" target="_blank"> m.e.t. program</a> majoring in electrical engineering and computer science and business administration. currently, i'm working on the research team over at <a class="links" href="https://www.polychain.capital/" target="_blank">polychain capital</a>, focusing on decentralized finance, information markets, and infrastructure and tooling for the crypto industry.</p>
+                    <p> year-round, i invest up to $500k in university-affiliated startups with <a class="links" href="https://contrarycap.com/" target="_blank"> contrary capital</a> and work as an analyst with <a class="links" href="https://moraliscapital.com/" target="_blank"> moralis capital</a>, an angel fund based in new york. at berkeley, i spend time in the crypto space as a software developer for <a class="links" href="https://blockchain.berkeley.edu/" target="_blank">blockchain at berkeley</a> and as a fellow with the <a class="links" href="https://www.xcelerator.berkeley.edu/" target="_blank"> berkeley blockchain xcelerator</a>, and help <a class="links" href="https://www.freeventures.org/" target="_blank">free ventures</a> accelerate berkeley's finest pre-seed startups.</p>
+                    <p> last summer, i was a data scientist at <a class="links" href="https://www.fastcompany.com/90299025/lineage-logistics-most-innovative-companies-2019" target="_blank">lineage logistics</a>, where i developed an algorithm and API (scheduled for deployment to hundreds of lineage's warehouses nationwide) to improve efficiency of item retrieval within manual warehouses. before cal, i've worked at a <a class="links" href="https://easyaerial.com/" target="_blank">drone startup</a> building UAS solutions for perimeter security, an <a class="links" href="https://joy-hsu-lhw7.squarespace.com/" target="_blank">educational philanthropy non-profit</a>, a <a class="links" href="https://www.waksman.rutgers.edu/" target="_blank">microbiology research lab</a> and a <a class="links" href="https://www.murphy4nj.com/" target="_blank">political campaign</a>. i got the chance to breakdown the berkeley entrepreneurship ecosystem with my good friend pavel on the <a class="links" href="https://www.breaker.audio/forward-thinking-founders/e/63196712" target="_blank">early bets podcast</a>, and i also try and help startups to the best of my ability; if you're an ambitious founder and think i might be of value, reach out! </p>
+                    <p> outside of work i love playing/watching <a class="links" href="https://www.youtube.com/watch?v=f8YEiCAPAbg" target="_blank">tennis</a> + <a class="links" href= "https://www.reddit.com/r/formuladank/" target="_blank">formula one</a> + <a class="links" href="https://www.youtube.com/watch?v=eZ03bvKaoOg" target="_blank">spikeball</a> + <a class="links" href="https://www.youtube.com/watch?v=M5YPrOroZ7Q" target="_blank">poker</a>. i also am an amateurish foodie and enjoy exploring restaurants; here's my <a class="links" href="https://www.palette-sf.com/" target="_blank">favorite so far</a>. i'm an avid reader particularly interested in <a class="links" href="https://palladiummag.com" target="_blank"> governance futurism</a>, <a class="links" href= "https://plato.stanford.edu/" target="_blank">philosophy</a>, and <a class="links" href= "https://www.amazon.com/Red-Rising-Pierce-Brown/dp/034553980X" target="_blank">sci-fi</a>. i'm always looking for more books, so please send them my way!</p>
+                    <p> if you have any questions or just want to chat, my inbox is always open <a class="links" href="mailto:ssreeni@berkeley.edu">here</a>.</p>
+
+                    <p> this website, like most of my life, is always a work in progress.</p>
+
+                    <p>made with <i class='fas fa-heart' style="color:rgb(252, 1, 1)"></i> in <a class = "links" href="https://twitter.com/njgov?lang=en">new jersey</a>.</p>
+
+        
+            
+            </div> 
+
+        </div>
+    </body>
+</html>
