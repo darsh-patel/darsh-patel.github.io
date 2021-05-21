@@ -1,5 +1,5 @@
 h1 {
-    font-family: Georgia, serif;
+    font-family: Baskerville, serif;
     text-align: left;
     padding: 30px;
     padding-bottom: 0px;
@@ -15,7 +15,7 @@ h1 {
 }
 
 h2 {
-    font-family: Georgia, serif;
+    font-family: Baskerville, serif;
     text-align: left;
     padding-left: 30px;
     padding-bottom: 25px;
@@ -30,7 +30,7 @@ h2 {
 }
 
 .resume {
-    font-family: Georgia, serif;
+    font-family: Baskerville, serif;
     text-align: left;
     padding: 30px;
     padding-bottom: 25px;
@@ -75,7 +75,7 @@ h2 {
   }
 
 .links {
-    font-family: Georgia, serif;
+    font-family: Baskerville, serif;
     font-weight: bold;
     color: black;
     text-align: left;
@@ -117,7 +117,7 @@ ul {
 }
 
 p {
-    font-family: Georgia, serif;
+    font-family: Baskerville, serif;
     margin: 100px;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -134,7 +134,7 @@ p {
 }
 
 li {
-    font-family: Georgia, serif;
+    font-family: Baskerville, serif;
     margin: 100px;
     margin-top: 0px;
     margin-bottom: 0px;
